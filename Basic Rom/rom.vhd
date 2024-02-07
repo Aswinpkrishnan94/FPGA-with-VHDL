@@ -11,7 +11,7 @@ end entity;
 architecture beh of rom is
 type rom is array(0 to 7) of bit_vector(3 downto 0);
 constant my_rom : rom	:= ("1111", "1110", "1101", "1100",
-									 "1011", "1010", "1001", "1000");
+			    "1011", "1010", "1001", "1000");
 
 begin
 
