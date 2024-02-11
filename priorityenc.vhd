@@ -1,0 +1,23 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity priorityenc is
+port(
+		x : in std_logic_vector(7 downto 1);
+		y : out std_logic_vector(2 downto 0)
+	  );
+end entity;
+
+architecture beh of priorityenc is
+begin
+
+y <= "111" when x(7) = '1' else
+	  "110" when x(6) = '1' else
+	  "101" when x(5) = '1' else
+	  "100" when x(4) = '1' else
+	  "011" when x(3) = '1' else
+	  "010" when x(2) = '1' else
+	  "001" when x(1) = '1' else
+	  "000";
+
+end beh;
