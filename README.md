@@ -10,3 +10,4 @@ Examples:
 6. Priority Encoder
 7. Generic Encoder
 8. Vector_shifter
+9. Binary to Gray coder
