@@ -14,3 +14,5 @@ Examples:
 10. Generic Decoder
 11. Hex to Seven Segment
 12. Leading Zeroes
+13. Frequency Divider
+14. Timer
