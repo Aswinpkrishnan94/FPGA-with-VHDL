@@ -11,3 +11,6 @@ Examples:
 7. Generic Encoder
 8. Vector_shifter
 9. Binary to Gray coder
+10. Generic Decoder
+11. Hex to Seven Segment
+12. Leading Zeroes
