@@ -16,3 +16,5 @@ Examples:
 12. Leading Zeroes
 13. Frequency Divider
 14. Timer
+15. Binary Counter using Finite State Machine
+16. Rising Edge Detection circuit using both Mealy and Moore based approaches
