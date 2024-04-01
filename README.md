@@ -18,3 +18,4 @@ Examples:
 14. Timer
 15. Binary Counter using Finite State Machine
 16. Rising Edge Detection circuit using both Mealy and Moore based approaches
+17. Shift Registers
