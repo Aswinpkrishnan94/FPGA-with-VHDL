@@ -19,4 +19,7 @@ Examples:
 15. Binary Counter using Finite State Machine and Universal Binary Counter
 16. Rising Edge Detection circuit using both Mealy and Moore-based approaches
 17. Shift Registers
-18. 18. Modulus M Counter
+18. Modulus M Counter
+19. FIFO Buffer
+20. Square Wave Generator
+21. Pulse Width Modulation
