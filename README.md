@@ -23,3 +23,4 @@ Examples:
 19. FIFO Buffer
 20. Square Wave Generator
 21. Pulse Width Modulation
+22. UART Receiver subsystem
