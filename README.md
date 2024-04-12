@@ -24,3 +24,4 @@ Examples:
 20. Square Wave Generator
 21. Pulse Width Modulation
 22. UART Receiver subsystem
+23. PS2 Port Keypad and Mouse Interfaces
