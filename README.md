@@ -25,3 +25,4 @@ Examples:
 21. Pulse Width Modulation
 22. UART Receiver subsystem
 23. PS2 Port Keypad and Mouse Interfaces
+24. External SRAM Interface Controller
