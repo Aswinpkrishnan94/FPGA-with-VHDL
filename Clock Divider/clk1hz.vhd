@@ -9,7 +9,7 @@ entity clk1hz is
       );
 end entity;
 
-architecture beh of clk1Hz is
+architecture beh of clk1hz is
   signal counter : integer := 1;         -- (50000000/2 = 25000000)
   signal temp    : std_logic:= '0';
 
