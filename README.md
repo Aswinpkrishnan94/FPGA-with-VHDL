@@ -27,3 +27,4 @@ Examples:
 23. PS2 Port Keypad and Mouse Interfaces
 24. External SRAM Interface Controller
 25. VGA Controller
+26. Clock Divider - 50 Mhz clock input. 1 Hz clock output
