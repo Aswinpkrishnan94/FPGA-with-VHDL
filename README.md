@@ -28,4 +28,5 @@ Examples:
 24. External SRAM Interface Controller
 25. VGA Controller
 26. Clock Divider - 50 Mhz clock input. 1 Hz clock output
-27. Clock Divider - 50 Mhz clock input. 1 Hz clock output. Count 1Hz on a seven segment display.
+27. Clock Divider - 50 Mhz clock input. 1 Hz clock output. Count 1Hz on a seven-segment display.
+28. Real Time Clock using Seven Segment Displays
