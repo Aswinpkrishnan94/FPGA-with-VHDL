@@ -1,0 +1,3 @@
+Design and implement a digital system in FPGA to realize a digital clock. 
+Display the hours, minutes, and seconds on six seven-segment displays (two for each). 
+Indicate AM/PM.
