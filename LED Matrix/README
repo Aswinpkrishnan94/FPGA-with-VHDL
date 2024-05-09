@@ -1,8 +1,13 @@
-FPGA based LED Matrix Display:
+FPGA-based LED Matrix Display:
 To design a system to control an LED matrix display using FPGA, allowing for displaying text, graphics, or animations with various effects.
 
-Code 1: To select a particular column, row and iterate through the row at every 1s.
+Code 1: To select a particular column, or row and iterate through the row at every 1s.
         
-Things done:  To divide the on-board clock frequency (50 MHz) to produce 1s clock.
-              leds are turned on iteratively in a particular column
+Things done:  Divide the on-board clock frequency (50 MHz) to produce a 1s clock.
+              LEDs are turned on iteratively in a particular column
+
+Code 2: To display a single character using LED Matrix display. The character chosen to print is F
+
+Things done:  Since the 1Hz clock is too slow for displaying a character, the scan frequency variable is introduced to increase the frequency
+              400 Hz is chosen as the sample scan frequency. since there are 8 rows, we multiply by 8. Hence Leds are lit faster.
            
