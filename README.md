@@ -31,3 +31,4 @@ Examples:
 27. Clock Divider - 50 Mhz clock input. 1 Hz clock output
 28. Clock Divider - 50 Mhz clock input. 1 Hz clock output. Count 1Hz on a seven-segment display.
 29. Real Time Clock using Seven Segment Displays
+30. String Detector
