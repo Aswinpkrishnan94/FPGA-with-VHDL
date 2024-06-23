@@ -15,11 +15,11 @@ Examples:
 11. Generic Decoder
 12. Hex to Seven Segment
 13. Leading Zeroes
-14. Frequency Divider
+14. Frequency Divider - frequency divide by 2
 15. Timer
 16. Binary Counter using Finite State Machine and Universal Binary Counter
 17. Rising Edge Detection circuit using both Mealy and Moore-based approaches
-18. Shift Registers
+18. Shift Registers - Serial in Parallel out, Serial in Serial out, Parallel in Parallel out, Parallel in Serial out
 19. Modulus M Counter
 20. FIFO Buffer
 21. Square Wave Generator
