@@ -36,3 +36,5 @@ Examples:
 32. Adder Subtractor
 33. Mini Calculator
 34. Digital Clock
+35. Stepper Motor
+
