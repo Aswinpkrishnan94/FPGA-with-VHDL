@@ -3,7 +3,7 @@ use ieee.std_logic_1164.all;
 
 entity freq_div_2 is
 generic(
-			n : integer := 250000          -- 100 MHz clock output
+			n : integer := 250000          -- 100 Hz clock output
 		 );
 port(
 		clk_in, rst	: in std_logic;
