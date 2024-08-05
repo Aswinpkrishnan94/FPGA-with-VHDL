@@ -1,4 +1,4 @@
-# FPGA-with-VHDL
+7# FPGA-with-VHDL
 This contains some design examples to familiarize with the VHDL language.
 
 Examples:
@@ -10,7 +10,7 @@ Examples:
 6. ALU
 7. Priority Encoder
 8. Generic Encoder
-9. Vector_shifter
+9. Vector_shifter, Barrel shifter
 10. Binary to Gray coder
 11. Generic Decoder
 12. Hex to Seven Segment
