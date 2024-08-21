@@ -37,4 +37,6 @@ Examples:
 33. Mini Calculator
 34. Digital Clock
 35. Stepper Motor
+36. Adder N bit
+37. Comparator N bit
 
