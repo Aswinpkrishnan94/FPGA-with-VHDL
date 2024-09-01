@@ -39,4 +39,5 @@ Examples:
 35. Stepper Motor
 36. Adder N bit
 37. Comparator N bit
+38. Mux N bit
 
