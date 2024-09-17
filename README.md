@@ -36,8 +36,9 @@ Examples:
 32. Adder Subtractor
 33. Mini Calculator
 34. Digital Clock
-35. Stepper Motor
-36. Adder N bit
-37. Comparator N bit
-38. Mux N bit
+35. Signal Generator
+36. Stepper Motor
+37. Adder N bit
+38. Comparator N bit
+39. Mux N bit
 
