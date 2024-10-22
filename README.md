@@ -42,3 +42,4 @@ Examples:
 38. Comparator N bit
 39. Mux N bit
 40. Keyboard debounce circuit
+41. Ripple counter
